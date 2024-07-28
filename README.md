@@ -17,8 +17,8 @@ https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
 
 # Project Workflow
 1.Importing required Libraries
-![image](https://github.com/user-attachments/assets/f299c444-5015-4834-acb9-e9ea9e4aea44)
 
+![image](https://github.com/user-attachments/assets/f299c444-5015-4834-acb9-e9ea9e4aea44)
 1.Loading Data into jupyter notebook through kaggle API.
 2.Data Inspection.
 3.Data cleaning and handling missing data if any.
